@@ -16,7 +16,8 @@
 --->
 
 # Eiffel Protocol in PMeta
-PMeta framework utilize open source Eiffel Protocol which is a technology agnostic CI/CD event protocol.
+PMeta框架采用了开源的Eiffel Protocol, 该协议是不依赖具体实现技术的CI/CD消息协议。
+[PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
 
 This repository contains the Eiffel protocol vocabulary, descriptions, guides and schemas. For implementations, architecture and community resources, visit the [Eiffel Community](https://eiffel-community.github.io).
 
