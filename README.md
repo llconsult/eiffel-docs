@@ -18,7 +18,9 @@
 # Eiffel Protocol in PMeta
 PMeta框架采用了开源的Eiffel Protocol, 该协议是不依赖具体实现技术的CI/CD消息协议。
 
-本代码仓包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南. 实现架构，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
+本代码仓包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南。
+
+PMeta的参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
 
 
 # Contents
