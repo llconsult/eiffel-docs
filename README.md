@@ -24,7 +24,8 @@ PMeta的参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E
 
 
 # Contents
-1. [Introduction](./introduction/introduction.md)
+1. Introduction
+   1. [Introduction](./introduction/introduction.md)
    1. [How to Propose Changes and Contribute](https://github.com/eiffel-community/.github/blob/master/CONTRIBUTING.md)
    1. [Code of Conduct](https://github.com/eiffel-community/.github/blob/master/CODE_OF_CONDUCT.md)
 1. Eiffel Syntax and Usage
