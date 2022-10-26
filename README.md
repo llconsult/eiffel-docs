@@ -15,17 +15,16 @@
    limitations under the License.
 --->
 
-# Eiffel Protocol in PMeta
-PMeta框架采用了开源的Eiffel Protocol, 该协议是不依赖具体实现技术的CI/CD消息协议。
+# 软件过程元数据框架（Pmeta）的消息协议
+PMeta框架采用了开源的Eiffel消息协议, 该协议不依赖于具体实现技术，已经成功应用于企业级大规模的异构CI/CD系统中。
 
-本代码仓包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南。
+本代码仓主要包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南。
 
-PMeta的参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
+PMeta的基本参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)。
 
 
 # Contents
-1. Introduction
-   1. [Introduction](./introduction/introduction.md)
+1. [Introduction](./introduction/introduction.md)
    1. [How to Propose Changes and Contribute](https://github.com/eiffel-community/.github/blob/master/CONTRIBUTING.md)
    1. [Code of Conduct](https://github.com/eiffel-community/.github/blob/master/CODE_OF_CONDUCT.md)
 1. Eiffel Syntax and Usage
