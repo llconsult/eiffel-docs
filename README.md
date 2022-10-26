@@ -15,22 +15,13 @@
    limitations under the License.
 --->
 
-<img src="./images/eiffel-protocol-logo.png" alt="Eiffel Protocol" width="350"/>
+# Eiffel Protocol in PMeta
+PMeta框架采用了开源的Eiffel Protocol, 该协议是不依赖具体实现技术的CI/CD消息协议。
 
-[![Graduated](https://img.shields.io/badge/Stage-Graduated-green)](https://github.com/eiffel-community/community/blob/master/PROJECT_LIFECYCLE.md#stage-graduated)
+本代码仓包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南。
 
-# Eiffel Protocol
-This repository contains the Eiffel protocol vocabulary, descriptions, guides and schemas. For implementations, architecture and community resources, visit the [Eiffel Community](https://eiffel-community.github.io).
+PMeta的参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)
 
-# About this repository
-The contents of this repository are licensed under the [Apache License 2.0](./LICENSE).
-
-To get involved, please see [Code of Conduct](https://github.com/eiffel-community/.github/blob/master/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/eiffel-community/.github/blob/master/CONTRIBUTING.md).
-
-# About Eiffel
-This repository forms part of the Eiffel Community. Eiffel is a protocol for technology agnostic machine-to-machine communication in continuous integration and delivery pipelines, aimed at securing scalability, flexibility and traceability. Eiffel is based on the concept of decentralized real time messaging, both to drive the continuous integration and delivery system and to document it.
-
-Visit [Eiffel Community](https://eiffel-community.github.io) to get started and get involved.
 
 # Contents
 1. [Introduction](./introduction/introduction.md)
