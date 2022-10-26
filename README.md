@@ -20,7 +20,7 @@ PMeta框架采用了开源的Eiffel消息协议, 该协议不依赖于具体实�
 
 本代码仓主要包含了Eiffel协议的词汇, 详细描述, 结构定义和设计指南。
 
-PMeta的基本参考架构设计，请参见 [PMeta的设计文档](./PMeta%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.pdf)。
+PMeta的基本参考架构设计，请参见 [PMeta的设计文档](./PMeta设计文档.docx)。
 
 
 # Contents
